@@ -9,8 +9,8 @@ export default class Flux extends Alt {
     constructor() {
         super();
 
-        this.makeActions('app', Actions);
-        this.makeStore('products', ProductStore);
-        this.makeStore('cart', CartStore);
+        this.addActions('app', Actions);
+        this.addStore('products', ProductStore);
+        this.addStore('cart', CartStore);
     }
 }
