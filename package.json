@@ -12,11 +12,13 @@
   "author": "Dmitri Voronianski <dmitri.voronianski@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "6to5-runtime": "~3.3.12",
     "alt": "^0.10.2",
     "array.prototype.find": "^1.0.0",
     "es5-shim": "^4.0.6",
     "es6-promise": "^2.0.1",
     "express": "^4.11.2",
+    "flummox": "~2.2.1",
     "flux": "^2.0.1",
     "fluxible": "^0.1.5",
     "iso": "^4.0.1",

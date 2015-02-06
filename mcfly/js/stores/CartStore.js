@@ -2,8 +2,8 @@
 
 var McFly = require('../dispatcher/McFly');
 var ProductStore = require('./ProductStore');
-var WebAPIUtils = require('../utils/WebAPIUtils');
 var assign = require('object-assign');
+
 
 var _products = {};
 
@@ -28,7 +28,7 @@ var CartStore = McFly.createStore({
         }
         return total.toFixed(2);
     },
-}, function(payload) {
+}, function (payload) {
 
     switch (payload.actionType) {
         case 'ADD_TO_CART':
