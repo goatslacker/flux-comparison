@@ -8,6 +8,7 @@ yahoo-fluxible/build/bundle.js
 reflux/build/bundle.js
 alt/build/bundle.js
 isomorphic-alt/build/bundle.js
+alt-inst/build/bundle.js
 mcfly/build/bundle.js
 marty/build/bundle.js
 flummox/build/bundle.js
