@@ -4,7 +4,7 @@
 
 <!-- ### [Read more](http://pixelhunter.me/) -->
 
-[![](https://farm9.staticflickr.com/8643/16226391077_424b0a87dd.jpg)]()
+[![](https://farm9.staticflickr.com/8643/16226391077_424b0a87dd.jpg)](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 
 ## Usage
 
@@ -20,7 +20,9 @@ Select several products from _Flux Online Shop_ and add them to cart. Open brows
 
 http://labs.voronianski.com/flux-comparison
 
-**Detailed article about all implementations is coming soon on my blog.**
+**You may find few notes about all implementations on my [blog](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example).**
+
+Discussion on HackerNews - https://news.ycombinator.com/item?id=8989495.
 
 ## Examples
 
@@ -46,8 +48,7 @@ The list of Flux related implementations used in this demo.
 ### Libraries
 
 - https://github.com/facebook/flux
-- https://github.com/yahoo/fluxible
-- https://github.com/yahoo/dispatchr
+- http://fluxible.io
 - https://github.com/spoike/refluxjs
 - https://github.com/goatslacker/alt
 - https://github.com/kenwheeler/mcfly
