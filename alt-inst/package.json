@@ -7,15 +7,11 @@
   "browserify": {
     "transform": [
       [
-        "6to5ify",
+        "babelify",
         {
-          "experimental": true,
-          "optional": [
-            "selfContained"
-          ]
+          "experimental": true
         }
       ],
-      "reactify",
       "envify"
     ]
   },
